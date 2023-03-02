@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Albert
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python, SQL and Excel VBA
+- 👀 I’m interested in FullStack and Data Analytics
+- 🌱 I’m currently learning Python, JavaScript, HTML and CSS
 - 📫 How to reach me: wenhongli9@outlook.com
 
 <!---
